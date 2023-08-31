@@ -9,4 +9,7 @@ int main(){
 
     std::cout << " int len : " << sizeof(int) << std::endl;
 
+/* *
+  111111
+ */
 }
