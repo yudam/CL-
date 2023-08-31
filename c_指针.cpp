@@ -23,8 +23,8 @@ int main()
      */
     std::cout << " *two_value : " << *two_value << " two_value : " << two_value << std::endl;
 
+    int i = 10;
 
-
-    /*  测试 提交 */
+    /*  测试 提交  2222222*/
 
 }
